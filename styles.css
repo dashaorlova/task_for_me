@@ -128,11 +128,13 @@ img {
   background: #EC632A;
   padding: 2px 29px;
 }
-.blue{
-  background-color:#3A6BA5 ;
-}
-.red{
-  background-color:#EC632A ;
+
+.blue {
+  background-color: #3A6BA5;
 }
 
-/*# sourceMappingURL=style.css.map */
+.red {
+  background-color: #EC632A;
+}
+
+/*# sourceMappingURL=styles.css.map */
